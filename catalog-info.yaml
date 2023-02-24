@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: awesome-vue
+  annotations:
+    github.com/project-slug: amit140381/awesome-vue
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
